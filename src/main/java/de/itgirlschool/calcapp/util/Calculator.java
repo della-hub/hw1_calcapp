@@ -1,27 +1,23 @@
 package de.itgirlschool.calcapp.util;
 
+import java.text.DecimalFormat;
 
 public class Calculator {
 
     public int mySum(int num1, int num2){
 
-
-        int resultSum = num1 + num2;
-        return resultSum;
+        return num1+num2;
     }
 
     public int myMulti(int num1, int num2){
 
 
-        int resultMulti = num1 * num2;
-        return resultMulti;
+        return num1*num2;
     }
 
     public float MyDiv(int num1, int num2){
 
-        float resultDiv = num1 / num2;
-
-        return resultDiv;
+        return num1/num2;
     }
 
 

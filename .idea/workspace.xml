@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3a4bf43-070e-4b1e-b516-9e7a7858b733" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/_main/_Main.java" afterDir="false" />
+    <list default="true" id="c3a4bf43-070e-4b1e-b516-9e7a7858b733" name="Changes" comment="calculator in 3 classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/_main/_main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/service/ResultWriterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/service/ResultWriterService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/util/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "della-hub"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;della-hub&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/della-hub/hw1_calcapp.git",
-    "accountId": "391a841d-becf-4e57-aa59-e578a49a9956"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/della-hub/hw1_calcapp.git&quot;,
+    &quot;accountId&quot;: &quot;391a841d-becf-4e57-aa59-e578a49a9956&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -48,16 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application._Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/macbook/IdeaProjects/homework_1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application._Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbook/IdeaProjects/homework_1&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.itgirlschool.calcapp._main._Main" />
@@ -87,6 +83,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715522869056</updated>
     </task>
+    <task id="LOCAL-00001" summary="calculator in 3 classes">
+      <option name="closed" value="true" />
+      <created>1717338857875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717338857875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="calculator in 3 classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator in 3 classes" />
   </component>
 </project>
