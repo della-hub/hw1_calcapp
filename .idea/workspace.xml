@@ -1,18 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3a4bf43-070e-4b1e-b516-9e7a7858b733" name="Changes" comment="" />
+    <list default="true" id="c3a4bf43-070e-4b1e-b516-9e7a7858b733" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/_main/_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/_main/_main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/service/ResultWriterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/service/ResultWriterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/util/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/itgirlschool/calcapp/util/Calculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "della-hub"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/della-hub/hw1_calcapp.git",
+    "accountId": "391a841d-becf-4e57-aa59-e578a49a9956"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gN0fVKZ2FznRZqmzCVbpMtmOOv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +50,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application._Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/macbook/IdeaProjects/homework_1"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.itgirlschool.calcapp._main._Main" />
+      <module name="homework_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.itgirlschool.calcapp._main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
